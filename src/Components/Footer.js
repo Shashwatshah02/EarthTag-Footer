@@ -50,6 +50,7 @@ export default function Footer() {
         <img src={insta} alt="" style={{height:'20px', padding:'0 16px'}}/>
         <img src={contactUs} alt="" style={{height:'20px', padding:'0 16px'}}/>
       </div>
+      
     </div>
   );
 }
