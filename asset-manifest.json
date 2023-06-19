@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/EarthTag-Footer/static/css/main.f7fc1133.css",
-    "main.js": "/EarthTag-Footer/static/js/main.d14a412f.js",
+    "main.js": "/EarthTag-Footer/static/js/main.d6c86635.js",
     "static/js/787.59d5e56e.chunk.js": "/EarthTag-Footer/static/js/787.59d5e56e.chunk.js",
     "static/media/insta_icon.png": "/EarthTag-Footer/static/media/insta_icon.f0beec6e9b1107a02557.png",
     "index.html": "/EarthTag-Footer/index.html",
     "main.f7fc1133.css.map": "/EarthTag-Footer/static/css/main.f7fc1133.css.map",
-    "main.d14a412f.js.map": "/EarthTag-Footer/static/js/main.d14a412f.js.map",
+    "main.d6c86635.js.map": "/EarthTag-Footer/static/js/main.d6c86635.js.map",
     "787.59d5e56e.chunk.js.map": "/EarthTag-Footer/static/js/787.59d5e56e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7fc1133.css",
-    "static/js/main.d14a412f.js"
+    "static/js/main.d6c86635.js"
   ]
 }
