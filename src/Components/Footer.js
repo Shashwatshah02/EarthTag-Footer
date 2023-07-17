@@ -52,7 +52,7 @@ export default function Footer() {
         <img src={impact} alt="" style={{height:'20px', padding:'0 16px'}}/>
         <button className="icons-button" onClick={()=>{setOpen(true) }} style={{background:'transparent', border:'none'}}><img src={joinUs} alt="" style={{height:'20px', padding:'0 16px'}}/></button>
         <BottomSheet open={open} onClick={close}>
-        Hey from App
+        Hey from App drawer
       <Main />
       
       </BottomSheet>
